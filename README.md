@@ -41,6 +41,7 @@
 <br> 
 
 <br> 
+
 [Проект 2: тест кабинета учителя в приложении Skyeng](https://github.com/ELvovo7/-Coursework-2.5-Skypro-)
 <p>Что нужно было сделать:<p>
 <ol>
@@ -62,6 +63,7 @@
 <br> 
 
 <br>
+
 [Проект 3: тест приложения Skyeng для изучения английского языка](https://github.com/ELvovo7/-Coursework-3-Skypro-)
 <p>Что нужно было сделать:<p>
 <ol>
@@ -84,6 +86,7 @@
 <br> 
 
 <br>
+
 [Проект 4: тест веб-приложения для учителей от Skyeng](https://github.com/ELvovo7/-Coursework-4-diploma-Skypro-)
 <p>Нужно было сделать:<p>
 <ol>
