@@ -8,7 +8,7 @@
 
 ## Навыки и технологии
 ``Jira``,``Confluence``,``Trello``,``Qase.io``,``Sitechko``, ``Checkvist``, ``Miro``, <br>
-``SQL``, ``Chrome DevTools``, ``Postman``, ``Mockoon``, ``Swagger``, ``SOAP UI``, ``Сurl``, ``Зowershell``, <br>
+``SQL``, ``Chrome DevTools``, ``Postman``, ``Mockoon``, ``Swagger``, ``SOAP UI``, ``Сurl``, ``Powershell``, <br>
 ``Jmeter``, ``VScode``, ``IntelliJ IDEA``, ``Git``, ``Android Studio``, ``Charles``.
 
 
@@ -17,7 +17,7 @@
 ## Проекты
 
 ### Учебные
-<p> Проект 1: тест веб-приложения для учителей от Skyeng</p>
+<p> [Проект 1](https://github.com/ELvovo7/-Coursework-1-2-Skypro-): тест веб-приложения для учителей от Skyeng</p>
 
 <p>Что нужно было сделать:<p>
   
@@ -110,6 +110,7 @@
 </ol>
 
 <br> 
+
 ### Коммерческие
 
 ### Другие
