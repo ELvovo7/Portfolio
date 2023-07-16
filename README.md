@@ -165,5 +165,4 @@
 ## Контактная информация
 - Telegram: @kyzminsky7
 - Email: vladimir_kyzmin@mail.ru
-- LinkedIn: 
-- Личный сайт: https://www.username.com
+- LinkedIn: [Vladimir Kuzmin](www.linkedin.com/in/vladimir-kuzmin-49baaa212)
