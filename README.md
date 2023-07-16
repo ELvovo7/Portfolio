@@ -17,8 +17,9 @@
 ## Проекты
 
 ### Учебные
-<p> 
-  [Проект1](https://github.com/ELvovo7/-Coursework-1-2-Skypro-) : тест веб-приложения для учителей от Skyeng</p>
+
+[Проект 1](https://github.com/ELvovo7/-Coursework-1-2-Skypro-)
+<p> [](https://github.com/ELvovo7/-Coursework-1-2-Skypro-) : тест веб-приложения для учителей от Skyeng</p>
 
 <p>Что нужно было сделать:<p>
   
