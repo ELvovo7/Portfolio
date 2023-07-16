@@ -148,7 +148,7 @@
 
 ### Другие
 
-Проект 1: Тест мобильного приложения "Match Cafe"[MC.pdf](https://github.com/ELvovo7/Portfolio/files/12063867/MC.pdf)
+[Проект 1: Тест мобильного приложения "Match Cafe"](https://drive.google.com/file/d/1LTZx32DkySx-WLuq7Yv9NgrSCJiDIeIX/view?usp=sharing)
 
 
 
