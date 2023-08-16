@@ -162,7 +162,7 @@
 
 #### Стэк:
 Фронт: HTML/CSS, JavaScript
-БД: PostgreSQL
+<br>БД: PostgreSQL
 
 #### Итоги:
 Работа над сайтом временно заморожена.
